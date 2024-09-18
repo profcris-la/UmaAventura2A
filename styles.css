@@ -14,3 +14,11 @@ button{
  color:white;  
  font-family: "Special Elite", system-ui; 
 }
+
+.passo{
+    display:none;
+}
+
+.passo.ativo{
+    display: block;
+}
